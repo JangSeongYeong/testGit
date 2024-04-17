@@ -11,5 +11,6 @@
 	<p>1.브랜치 초기화 - 특정 지점까지 초기화 하는 기능</p>
 	<p>2.reverse commit</p>
 	<p>불필요한 내용</p>
+	<button>클릭해 주세요</button>
 </body>
 </html>
