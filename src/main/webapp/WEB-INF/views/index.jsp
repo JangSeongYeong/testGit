@@ -13,7 +13,11 @@
 	<p>불필요한 내용</p>
 </body>
 <script>
-var arr = [];
-var obj = {};
+	var arr = [];
+	var obj = {};
+	
+	function test() {
+		alert("test 입니다.");
+	}
 </script>
 </html>
